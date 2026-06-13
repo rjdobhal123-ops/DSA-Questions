@@ -1,2 +1,2 @@
 # DSA-Questions
-This reop contains solutions  of striver A2Z dsa sheet
+This repo contains solutions  of striver A2Z dsa sheet
